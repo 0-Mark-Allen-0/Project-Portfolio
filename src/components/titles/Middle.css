@@ -1,0 +1,15 @@
+.middle{
+    background-color: #272727;
+    color: #ddd;
+    padding-top: 50px;
+    padding-bottom: 15px;
+    font-family: "Space Mono", monospace;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 50px;
+    text-align: center;
+}
+
+span{
+    color: #beff9b;
+}

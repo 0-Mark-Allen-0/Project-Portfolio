@@ -1,0 +1,54 @@
+.container{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+    background-color: #272727;
+}
+
+
+.card{
+    font-family: "Space Mono", monospace;
+    font-weight: 700;
+    font-style: normal;
+    border: #beff9b solid 2px;
+    background-color: #363636;
+    color: #ddd;
+    width: 400px;
+    height: 450px;
+    margin: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.card-image{
+    height: 200px;
+    background-size: cover;
+    border-radius: 5px 5px 0px 0px;
+}
+
+/* .proj1{
+    background-image: url(//public/images/stkmrkt.jpg);
+}
+
+.proj2{
+    background-image: url(//public/images/permlist.JPG);
+}
+
+.proj3{
+    background-image: url(//public/images/ipl.jpeg);
+} */
+
+p{
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 12pt;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+}
+
+.progress-tag{
+    padding: 2%;
+    background-color: #ffabab;
+    border: red solid 5px;
+    color: black;
+}

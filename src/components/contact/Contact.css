@@ -1,0 +1,46 @@
+.contact-container{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+.contact-card{
+    padding-top: 50px;
+    font-family: "Space Mono", monospace;
+    font-weight: 700;
+    font-style: normal;
+    border-style: solid 1px;
+    background-color: #363636;
+    width: 800px;
+    height: 500px;
+    margin: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+input{
+    background-color: #363636;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    border: #ffcd9b solid 2.5px;
+    font-family: "Space Mono", monospace;
+    font-weight: 700;
+    font-style: normal;
+}
+
+textarea{
+    width: 295px;
+    resize: none;
+    background-color: #363636;
+    color: white;
+    border-radius: 5px;
+    border: #ffcd9b solid 2.5px;
+    font-family: "Space Mono", monospace;
+    font-weight: 700;
+    font-style: normal;
+}
+
+button{
+    background-color: #ffcd9b;
+}
